@@ -1,2 +1,2 @@
 # grep-python
-Imitiation of the grep command done with python for practicing purposes
+Imitation of the grep command done with python for practicing purposes
